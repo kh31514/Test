@@ -1,0 +1,19 @@
+html {
+  margin: 0px 0px;
+  padding: 0px 0px;
+  font-family: 'Koho';
+}
+
+h1 {
+  color: #AA0634;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+h2 {
+  color: #AA0634;
+}
+
+img {
+  object-fit: cover;
+}

@@ -1,0 +1,42 @@
+.gray {
+  background-color: #F3F3F3;
+}
+
+.white {
+  background-color: white;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left {
+  flex-direction: row;
+}
+
+.right {
+  flex-direction: row-reverse;
+}
+
+.portrait {
+  height: 150px;
+  width: 125px;
+}
+
+.square {
+  height: 150px;
+  width: 200px;
+}
+
+.container img {
+  border-radius: 25px;
+  padding: 15px;
+}
